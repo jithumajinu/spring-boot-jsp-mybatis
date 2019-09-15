@@ -1,4 +1,4 @@
 # spring-boot-jsp-mybatis
-### mvn clean
-###  mvn spring-boot:run
-### mvn spring-boot:run -Dspring-boot.run.jvmArguments="-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005"
+* mvn clean
+* mvn spring-boot:run
+* mvn spring-boot:run -Dspring-boot.run.jvmArguments="-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005"
